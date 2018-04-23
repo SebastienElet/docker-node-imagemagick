@@ -1,4 +1,4 @@
-FROM node:8.9.3
+FROM node:9.11.1
 MAINTAINER Sébastien Elet
 
 # install ImageMagick
